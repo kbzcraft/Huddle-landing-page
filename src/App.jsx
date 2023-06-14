@@ -14,7 +14,7 @@ function App() {
         </div>
         <div className="hero">
           <div className='illustration-mockups'>
-            <img src="/images/illustration-mockups.svg" alt="" />
+            <img src="/images/illustration-mockups.svg" alt="illustration" />
           </div>
           <div className='content'>
             <h1>Build The Community Your Fans Will Love</h1>
