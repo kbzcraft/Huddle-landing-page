@@ -14,7 +14,7 @@ function App() {
         </div>
         <div className="hero">
           <div className='illustration-mockups'>
-            <img src="/images/illustration-mockups.svg" alt="illustration" />
+            <img src="https://raw.githubusercontent.com/kbzcraft/Huddle-landing-page/08adbefad53994ab76374fc83c33e52f1579a49b/public/images/illustration-mockups.svg" alt="illustration" />
           </div>
           <div className='content'>
             <h1>Build The Community Your Fans Will Love</h1>
